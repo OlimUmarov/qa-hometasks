@@ -1,42 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1739368254007" clover="3.2.0">
-  <project timestamp="1739368254007" name="All files">
-    <metrics statements="18" coveredstatements="18" conditionals="27" coveredconditionals="27" methods="6" coveredmethods="6" elements="51" coveredelements="51" complexity="0" loc="18" ncloc="18" packages="1" files="6" classes="6"/>
-    <file name="generateFullname.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\task-1\utils\generateFullname.js">
-      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-    </file>
-    <file name="validateAge.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\task-1\utils\validateAge.js">
-      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+<coverage generated="1739426666459" clover="3.2.0">
+  <project timestamp="1739426666459" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="7" coveredelements="7" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="checkSortOrder.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\referenced-tasks\utils\checkSortOrder.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="5" count="1" type="stmt"/>
-    </file>
-    <file name="validateCartQuantity.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\task-1\utils\validateCartQuantity.js">
-      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="13" count="1" type="stmt"/>
-    </file>
-    <file name="validateDiscountCalculation.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\task-1\utils\validateDiscountCalculation.js">
-      <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
-      <line num="2" count="4" type="cond" truecount="6" falsecount="0"/>
-      <line num="5" count="1" type="stmt"/>
-    </file>
-    <file name="validateLogin.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\task-1\utils\validateLogin.js">
-      <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
-      <line num="2" count="7" type="cond" truecount="4" falsecount="0"/>
-      <line num="4" count="4" type="stmt"/>
-      <line num="5" count="4" type="stmt"/>
-      <line num="7" count="4" type="cond" truecount="4" falsecount="0"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="11" count="3" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-    </file>
-    <file name="validatePassword.js" path="D:\Projects\DanAds\Tasks\qa-hometasks\src\task-1\utils\validatePassword.js">
-      <metrics statements="2" coveredstatements="2" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
-      <line num="12" count="6" type="stmt"/>
-      <line num="21" count="1" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
